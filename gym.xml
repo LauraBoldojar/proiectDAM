@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<gym>
+   <user id="1">
+      <name>Popescu, Ion</name>
+      <number>0729615814</number>
+      <address>Bulevardul Iuliu Maniu, nr. 7-11, sector 6 </address>
+      <subscription>gold</subscription>
+      <frequency>regular</frequency>
+   </user>
+<user id="2">
+      <name>Ionescu, Marin</name>
+      <number>0728715714</number>
+      <address>BD. Timisoara, Nr. 26Z, sector 6 </address>
+      <subscription>bronze</subscription>
+      <frequency>recreational</frequency>
+   </user>
+<user id="3">
+      <name>Pop, Ioana</name>
+      <number>0721215714</number>
+      <address>Calea Floreasca Nr. 246B, sector 1 </address>
+      <subscription>silver</subscription>
+      <frequency>regular</frequency>
+   </user>
+<user id="4">
+      <name>Cimpoi, Maria</name>
+      <number>0768217714</number>
+      <address>Bulevardul Corneliu Coposu 7 Bl. 105B, Sc. 1, Et. 3, Ap. 09, Sectorul 3 Bucuresti </address>
+      <subscription>gold</subscription>
+      <frequency>VIP</frequency>
+   </user>
+<user id="5">
+      <name>Guster, Vasile</name>
+      <number>0768416714</number>
+      <address>Drumul Valea Cricovului, nr. 85, Sector 6 </address>
+      <subscription>silver</subscription>
+      <frequency>recreational</frequency>
+   </user>
+<user id="6">
+      <name>Scurtu, Virgil</name>
+      <number>0720420173</number>
+      <address>Strada Plopilor,bl.5 ap.3 </address>
+      <subscription>bronze</subscription>
+      <frequency>recreational</frequency>
+   </user>
+<user id="7">
+      <name>Vacarus, Vasilica</name>
+      <number>0724420573</number>
+      <address>Calea Vacaresti, nr. 391, Piata Sudului </address>
+      <subscription>gold</subscription>
+      <frequency>VIP</frequency>
+   </user>
+<user id="8">
+      <name>Frumusescu, Luminita</name>
+      <number>0724721570</number>
+      <address>Str.Nada Florilor ,nr. 6 ,bl. 6 ,sc. A, sector 2 </address>
+      <subscription>silver</subscription>
+      <frequency>regular</frequency>
+   </user>
+<user id="9">
+      <name>Bubu, Carmecita</name>
+      <number>0728721376</number>
+      <address>Bulevardul Nicolae Grigorescu 29A Bl. N29, Sectorul 3 Bucuresti </address>
+      <subscription>bronze</subscription>
+      <frequency>regular</frequency>
+   </user>
+<user id="10">
+      <name>Prajitu, Cristian</name>
+      <number>0753724376</number>
+      <address>Strada Vintila Voda 2 bl.E1,sc1,et .2,ap.6 . Sectorul 3  </address>
+      <subscription>bronze</subscription>
+      <frequency>recreational</frequency>
+   </user>
+</gym>
